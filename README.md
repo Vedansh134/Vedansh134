@@ -83,9 +83,14 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div align="left">
    <a href="https:/www.linkedin.com/in/vedansh-kumar-fresher/" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
        alt="https://www.linkedin.com/in/vedansh-kumar-fresher/" height="30" width="40" />
    </a>
+   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBmWtjsqhwjNtPdRWdLLxCMVnMngcxNVCgvkGGxDpmLbMwBPjlPZFhtxLJbKHlfDLZHnGSC" target="blank"> 
+     <img align="center" src="https://github.com/user-attachments/assets/8dc79f0b-3959-4661-903e-9760630ada42" alt="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBmWtjsqhwjNtPdRWdLLxCMVnMngcxNVCgvkGGxDpmLbMwBPjlPZFhtxLJbKHlfDLZHnGSC" width="40" height="30" />
+   </a>
 </div>
+
+
