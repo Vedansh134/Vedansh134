@@ -27,7 +27,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedansh134" alt="vedansh134" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedansh134&theme=tokyonight&no-frame=true&margin-w=4" alt="vedansh134" /></a> </p>
 </div>
 
 ---
