@@ -11,11 +11,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [MongoShop](https://github.com/Vedansh134/MongoShop.git)
-- 🌱 I’m currently learning **Shell Scripting and Python**
+- 🔭 I’m currently working on [Travelmania](https://github.com/Vedansh134/Travelmania-project.git)
+- 🌱 I’m currently learning **Shell Scripting, Python and Microsoft Azure 104**
 - 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
 - 📫 How to reach me **vedansh.kumar134@gmail.com**
-- 🛠️ Proficient with AWS, RedHat Linux, Docker, Kubernetes, Ansible, CI/CD etc
+- 🛠️ Proficient with GitHub, AWS, RedHat Linux, Azure, Docker, Kubernetes, Ansible, CI/CD etc
 - 📄 Know about my experiences [https://linkedin.com/in/vedansh-kumar-fresher](https://linkedin.com/in/vedansh-kumar-fresher)
 - ⚡ Fun fact **India-based Cloud & DevOps Nerd | Travel junkie, sketch addict, and automated snacks (CI/CD)**
 
