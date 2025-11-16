@@ -81,7 +81,7 @@
 </div>
 
 <div align="center">
-   <br>
+   ##
    <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedansh134&theme=react-dark&hide_border=true&area=true"  
       width="95%"/></p>
 </div>
