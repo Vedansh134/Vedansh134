@@ -79,8 +79,7 @@
    <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=vedansh134&show_icons=true&theme=dark&title_color=2da0ec&text_color=e276a4&bg_color=0a0b0b&locale=en" alt="vedansh134" /></p>
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedansh134&show_icons=true&theme=dark&title_color=2da0ec&text_color=e276a4&bg_color=0a0b0b&locale=en&layout=compact" alt="vedansh134" /></p>
 </div>
-<br>&nbsp;
-<div align="center">
+<div style="margin-top: 10px;" align="center">
    <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedansh134&theme=react-dark&hide_border=true&area=true"  
       width="95%"/></p>
 </div>
