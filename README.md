@@ -80,7 +80,15 @@
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedansh134&show_icons=true&theme=dark&title_color=2da0ec&text_color=e276a4&bg_color=0a0b0b&locale=en&layout=compact" alt="vedansh134" /></p>
 </div>
 
----
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ## 📈 Contribution Graph
 
@@ -104,3 +112,4 @@
    </a>
 </div>
 
+---
